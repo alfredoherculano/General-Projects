@@ -10,7 +10,7 @@ email_receiver = ''
 
 subject = 'Testando projeto pra mandar email com o Python'
 body = """
-E aí cara de pica!
+Mensagem teste!
 """
 
 em = EmailMessage()
